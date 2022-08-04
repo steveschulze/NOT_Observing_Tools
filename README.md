@@ -11,7 +11,7 @@
 
 *Requirements*: Astroplan, Astropy
 
-** Usage:**
+**Usage:**
 
 1) Add your targets to `targets.ascii'. Coordinates have to be in the HMS/DMS system.
 2) Run the notebook.
